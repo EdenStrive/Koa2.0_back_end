@@ -6,6 +6,3 @@ dist/
 
 #
 package-lock.json
-
-#
-config/config.js
