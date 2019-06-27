@@ -1,10 +1,10 @@
 const config = {
     database:{
         DATABASE:"blog",
-        USERNAME:"",
-        PASSWORD:"",
+        USERNAME:"123",
+        PASSWORD:"123",
         PORT:3306,
-        HOST:""
+        HOST:"123"
     }
 }
 module.exports = config 
